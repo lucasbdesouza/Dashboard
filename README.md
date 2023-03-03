@@ -1,6 +1,6 @@
 # Dashboard ProUni
 
-<img src="https://github.com/lucasbdesouza/Dashboard/blob/main/Dashboard.jpeg">
+<img src="https://github.com/lucasbdesouza/Dashboard-ProUni/blob/main/Dashboard.png">
 
 ## Alguns Insights que podemos observar:
 
