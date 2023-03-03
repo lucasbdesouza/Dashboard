@@ -1,4 +1,8 @@
-# Alguns Insights
+# Dashboard ProUni
+
+<img src="https://github.com/lucasbdesouza/Dashboard/blob/main/Dashboard.jpeg">
+
+## Alguns Insights que podemos observar:
 
 1- Podemos observar, com o passar dos anos, que tivemos uma redução significativa no número de alunos matriculados na modalidade presencial. O que, mesmo com uma queda também no EaD em 2020, significa um aumento de 35,60% na representatividade do EAD perante o todo!
 
